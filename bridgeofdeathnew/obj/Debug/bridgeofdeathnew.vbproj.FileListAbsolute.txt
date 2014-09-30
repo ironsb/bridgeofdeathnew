@@ -1,0 +1,11 @@
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\bin\Debug\bridgeofdeathnew.exe.config
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\bin\Debug\bridgeofdeathnew.exe
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\bin\Debug\bridgeofdeathnew.pdb
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\bin\Debug\bridgeofdeathnew.xml
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\obj\Debug\bridgeofdeathnew.vbprojResolveAssemblyReference.cache
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\obj\Debug\bridgeofdeathnew.Form1.resources
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\obj\Debug\bridgeofdeathnew.Resources.resources
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\obj\Debug\bridgeofdeathnew.vbproj.GenerateResource.Cache
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\obj\Debug\bridgeofdeathnew.exe
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\obj\Debug\bridgeofdeathnew.xml
+H:\GitHub\bridgeofdeathnew\bridgeofdeathnew\obj\Debug\bridgeofdeathnew.pdb
